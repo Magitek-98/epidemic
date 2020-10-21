@@ -8,9 +8,6 @@
     <title>bootstrap</title>
     <link href="${pageContext.request.contextPath}/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/bootstrap/datepicker/bootstrap-datepicker3.css">
-    <style>
-
-    </style>
 </head>
 <body>
 <div class="container">

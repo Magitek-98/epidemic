@@ -24,5 +24,6 @@
     <orderEntry type="library" name="aop" level="project" />
     <orderEntry type="library" name="log4j" level="project" />
     <orderEntry type="library" name="mybatis" level="project" />
+    <orderEntry type="library" name="jackson" level="project" />
   </component>
 </module>
